@@ -17,7 +17,7 @@ function AboutUS() {
         </div>
         </div>
         <div className=' pr-96 '>
-  <img src="logo2.svg" alt=""className=' ml-40  text-white  ' />
+  <img src="logo2.svg" alt=""className=' ml-40  text-white' />
   <img src='riv.svg' alt='' className=' ml-50 mt-10' />
    <img src="/ppic.svg" alt=""className=' ml-96 mt-10 ' />
   <p className='ml-90 text-2xl'>  <i class="fa-solid fa-arrow-right"></i>   Travel With Us</p>

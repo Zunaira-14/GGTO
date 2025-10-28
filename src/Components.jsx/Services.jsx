@@ -51,7 +51,7 @@ function Services() {
    >
     <div className='pl-15 pt-40'>
    <p className='text-orange-500 text-4xl font-bold'>Featured Restaurants</p>
-   <p className='text-amber-50 underline underline-offset-7 '>Discover the most loved places to eat in your city.</p>
+   <p className='text-amber-50 underline underline-offset-7'>Discover the most loved places to eat in your city.</p>
    </div>
    </div>
    <div>

@@ -6,9 +6,9 @@ import { Link,} from 'react-router-dom'
 function NavBar() {
   return (
     <div>
-    <nav className='flex justify-between text-amber-950  items-center   bg-blue-100 px-6 py-4  '>
+    <nav className='flex justify-between text-amber-950  items-center   bg-blue-200 px-6 py-4  '>
       <div>
-        <img src='logo.svg' alt='logo' className='h-10 w-auto'/>
+        <img src='logo.svg' alt='logo' className='h-12 w-auto'/>
       </div>
       <div>
         <button className='flex text-cyan-900  border border-amber-900  rounded-full hover:bg-emerald-300 text-sm  px-4 py-2'>
